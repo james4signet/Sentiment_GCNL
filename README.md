@@ -1,5 +1,12 @@
 # Sentiment_GCNL
-Sentiment using Google Cloud Natural Language API
+Sentiment using Google Cloud Natural Language API.
+
+## About this Project
+The project would be for a company or organization that wants to analyze their competitors or industry websites to understand the topics, sentiments, and trends that are being discussed in their field. By inputting a URL of a website and extracting the keywords, key phrases, categories, subcategories and sentiment score, the company can gain a better understanding of the content on the website, and use that information to inform their own content marketing strategy, product development, or customer service strategy. This project can be used as a tool for competitive analysis and market research, providing valuable insights to help organizations make data-driven decisions.
+
+## Description
+
+This project is a web application that allows users to input a URL of a website and extract and classify the keywords, key phrases, categories, subcategories and sentiment score of the text on the website. The classification is done against predefined categories and subcategories that are supplied via a CSV file. The application uses the Google Cloud Natural Language API to extract and analyze the text, and it is developed using Python, JavaScript, HTML, and CSS. The output is displayed to the user in a table format on the browser. The web server is set up using Google Cloud Platform, and the project is designed to be affordable, scalable, and easy to maintain.
 
 ## Instructions
 
