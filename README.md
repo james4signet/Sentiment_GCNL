@@ -16,6 +16,11 @@ Sentiment using Google Cloud Natural Language API
 1. Run the Python script on the server.
 1. Test the project by accessing it through a web browser.
 
+
+## Web Server Recommendations
+
+Google App Engine: This is a fully managed platform for building and deploying web applications. You can use App Engine to deploy your HTML, JavaScript, and CSS files and run your Python script. App Engine also provides automatic scaling, monitoring, and logging, making it easy to maintain your web server.
+
 ---
 
 ## Requirements for Project
